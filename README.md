@@ -1,7 +1,7 @@
 # 💫 About Me:
-🚀 I’m a **Full-Stack Developer & IoT Enthusiast** working across **web technologies, embedded systems, and cloud-connected devices**.
+🚀 I’m a **Full-Stack Developer & IoT Enthusiast** working across **web technologies, embedded systems**.
 
-I’m currently building a web application with a **TypeScript-based frontend** and a **Python Flask backend**. I have hands-on experience with **Raspberry Pi**, **Linux-based systems**, and **IoT device development**, including **device-to-cloud integration**, **real-time data handling**, and **4G/GSM connectivity**.
+I’m currently building a web application with a **TypeScript-based frontend** and a **Python Flask backend**. I have hands-on experience with **Raspberry Pi**, **Linux-based systems**, and **IoT device development**.
 
 I enjoy bridging **hardware and software** to create smart, scalable, real-world solutions. Always learning. Always building. ⚡🌍
 
