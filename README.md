@@ -87,6 +87,6 @@ krutan@github:~$ exit
 logout — thanks for stopping by. keep building.
 ```
 
-![Profile views](https://visitcount.itsvg.in/api?id=Krutan178&icon=0&color=39FF14)
+![Profile views](https://komarev.com/ghpvc/?username=Krutan178&color=39ff14&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
