@@ -83,11 +83,11 @@ krutan@github:~$ tree ./stack -L 1
 
 ---
 
-## `$ gnuplot ./activity`
+## `$ cal ./activity`
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Krutan178&theme=gruvbox&area=true&hide_border=true&custom_title=commit%20activity%20—%20last%20year" alt="activity graph" width="100%" />
+<img src="https://ghchart.rshah.org/ffb000/Krutan178" alt="commit calendar — last year" width="100%" />
 
 </div>
 
