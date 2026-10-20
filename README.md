@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=230&color=0:39ff14,100:00b4d8&text=KRUTAN&fontSize=90&fontColor=0d1117&desc=Hardware%20%2B%20Software&descSize=22&descAlignY=75&animation=fadeIn" width="100%" alt="KRUTAN" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:39ff14,100:00b4d8&text=KRUTAN&fontSize=80&fontColor=0d1117&desc=Hardware%20%2B%20Software&descSize=22&descAlignY=75&animation=fadeIn" width="100%" alt="KRUTAN" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1000&color=39FF14&center=true&vCenter=true&width=600&height=45&lines=Full-Stack+Developer;IoT+Enthusiast;Raspberry+Pi+Tinkerer;Hardware+%2B+Software;Always+learning..." alt="krutan is typing..." />
 
