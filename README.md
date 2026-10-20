@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:8a2be2,60:ff2ec4,100:00e5ff&text=KRUTAN&fontSize=80&fontColor=ffffff&animation=fadeIn" width="100%" alt="KRUTAN" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:2b1200,55:b36b00,100:ffb000&text=KRUTAN&fontSize=80&fontColor=ffffff&animation=fadeIn" width="100%" alt="KRUTAN" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1000&color=FF2EC4&center=true&vCenter=true&width=600&height=45&lines=Full-Stack+Developer;IoT+Enthusiast;Raspberry+Pi+Tinkerer;TypeScript+%2B+Python;Always+learning..." alt="krutan is typing..." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1000&color=FFB000&center=true&vCenter=true&width=600&height=45&lines=Full-Stack+Developer;IoT+Enthusiast;Raspberry+Pi+Tinkerer;TypeScript+%2B+Python;Always+learning..." alt="krutan is typing..." />
 
 </div>
 
@@ -56,7 +56,7 @@ krutan@github:~$ tree ./stack -L 1
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Krutan178&theme=dracula&no-frame=true&column=7&margin-w=6&margin-h=6" alt="trophies" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=Krutan178&theme=gruvbox&no-frame=true&column=7&margin-w=6&margin-h=6" alt="trophies" width="100%" />
 
 </div>
 
@@ -87,7 +87,7 @@ krutan@github:~$ tree ./stack -L 1
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Krutan178&theme=react-dark&area=true&hide_border=true&custom_title=commit%20activity%20—%20last%20year" alt="activity graph" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Krutan178&theme=gruvbox&area=true&hide_border=true&custom_title=commit%20activity%20—%20last%20year" alt="activity graph" width="100%" />
 
 </div>
 
@@ -114,8 +114,8 @@ krutan@github:~$ exit
 logout — thanks for stopping by. keep building.
 ```
 
-![Profile views](https://komarev.com/ghpvc/?username=Krutan178&color=8a2be2&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile views](https://komarev.com/ghpvc/?username=Krutan178&color=ffb000&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8a2be2,60:ff2ec4,100:00e5ff&height=110&section=footer" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b1200,55:b36b00,100:ffb000&height=110&section=footer" width="100%" alt="footer" />
