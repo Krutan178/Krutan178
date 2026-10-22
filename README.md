@@ -83,16 +83,6 @@ krutan@github:~$ tree ./stack -L 1
 
 ---
 
-## `$ cal ./activity`
-
-<div align="center">
-
-<img src="https://ghchart.rshah.org/ffb000/Krutan178" alt="commit calendar — last year" width="100%" />
-
-</div>
-
----
-
 ## `$ ./snake --eat`
 
 <div align="center">
